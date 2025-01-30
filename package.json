@@ -1,0 +1,21 @@
+{
+  "name": "dynamic-kawaii",
+  "displayName": "Dynamic Kawaii",
+  "description": "Dynamic Kawaii Pink",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "imnyang",
+        "uiTheme": "vs-dark",
+        "path": "./themes/imnyang-color-theme.json"
+      }
+    ]
+  }
+}
