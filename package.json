@@ -3,7 +3,8 @@
 	"displayName": "Dynamic Kawaii",
 	"description": "Dynamic Kawaii Pink",
 	"repository": "https://github.com/imnyang/dynamic-kawaii",
-	"version": "0.0.2",
+	"publisher": "imnyang",
+	"version": "0.0.3-3",
 	"engines": {
 		"vscode": "^1.96.0"
 	},
@@ -15,7 +16,7 @@
 			{
 				"label": "Dynamic Kawaii",
 				"uiTheme": "vs-dark",
-				"path": "./themes/imnyang-color-theme.json"
+				"path": "./themes/dynamic-kawaii-color-theme.json"
 			}
 		]
 	},
